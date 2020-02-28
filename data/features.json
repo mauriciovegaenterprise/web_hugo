@@ -1,0 +1,17 @@
+[
+  {
+    "title": "En tiempo récord",
+    "description": "Realizas tus trámites sin filas, con efectividad y rapidez.",
+    "image": "images/features/rapidez.svg"
+  },
+  {
+    "title": "Respaldo",
+    "description": "Te respaldan abogados expertos en trámites administrativos y notariales.",
+    "image": "images/features/profesionales.svg"
+  },
+  {
+    "title": "Ahorras dinero",
+    "description": "Pagas el precio justo para tus necesidades.",
+    "image": "images/features/dinero.svg"
+  }
+]
