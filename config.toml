@@ -1,8 +1,8 @@
 baseURL = "https://mauriciovegaenterprise-contacto-whatsapp.netlify.com"
 languageCode = "es-co"
 title = "Mauricio Vega Enterprise"
-themesDir = "themes"
-themesDir = "../.."
+#themesDir = "themes"
+#themesDir = "../.."
 theme = "hugo-serif-theme"
 
 [params]
