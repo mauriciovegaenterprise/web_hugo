@@ -39,6 +39,16 @@ theme = "hugo-serif-theme"
       url = "https://www.instagram.com/mauriciovegaenterprise/"
       weight = 2
 
+    [[menu.main]]
+      name = "WhatsApp"
+      url = "https://api.whatsapp.com/send?phone=573193880958&text=Deseo%20saber%20acerca%20de%20sus%20servicios"
+      weight = 0
+
+    [[menu.main]]
+      name = "E-mail"
+      url = "mailto:contacto@mauriciovegaenterprise.com"
+      weight = 4
+
 
   # Footer Menu
     [[menu.footer]]
